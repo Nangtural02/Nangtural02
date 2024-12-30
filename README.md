@@ -1,9 +1,9 @@
 ## Hello
 
 ### Projects
-[Compose_Modules_Project](https://github.com/Nangtural02/Compose_Modules_Project)
-[Location Application](https://github.com/Nangtural02/IconsUWBApp) with Multiple DWM3001CDK System
-[Find_Tag](https://github.com/Nangtural02/Find_Tag) with 1:1 DWM3001CDK and VIO
+- [Compose_Modules_Project](https://github.com/Nangtural02/Compose_Modules_Project)
+- [Location Application](https://github.com/Nangtural02/IconsUWBApp) with Multiple DWM3001CDK System
+- [Find_Tag](https://github.com/Nangtural02/Find_Tag) with 1:1 DWM3001CDK and VIO
 <!--
 **Nangtural02/Nangtural02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
